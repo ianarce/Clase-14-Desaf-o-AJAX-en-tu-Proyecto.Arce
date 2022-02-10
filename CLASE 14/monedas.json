@@ -1,0 +1,26 @@
+[
+    {
+        "Denominacion":"Pesos Mexicanos",
+        "ValorDolares":20
+    },
+    {
+        "Denominacion":"Pesos Argentinos",
+        "ValorDolares":103
+    },
+    {
+        "Denominacion":"Yenes",
+        "ValorDolares":115
+    },
+    {
+        "Denominacion":"Pesos Uruguayos",
+        "ValorDolares":44
+    },
+    {
+        "Denominacion":"Euro",
+        "ValorDolares":0.88
+    },
+    {
+        "Denominacion":"Yuan Chino",
+        "ValorDolares":6.36
+    }
+]

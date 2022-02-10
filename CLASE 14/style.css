@@ -1,0 +1,45 @@
+main{
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+h1{text-align: center;
+color: white;}
+
+.grid__contenido{
+    margin-top: 5rem;
+    display: grid;
+    grid-template-columns: repeat(4 ,1fr);
+    column-gap: 3rem;
+}
+
+.input{
+    max-width: 50%;
+    max-height: 50%;
+    
+}
+
+.butonContenedor{
+    display: flex;
+    flex-direction: row-reverse;
+    column-gap: 3rem;
+    margin-top: 3rem;
+}
+body{
+    background-image: url("img/stripe-hero-background-effect-html-css.png");
+}
+.valorEntrante select{
+    padding: 1rem;
+}
+.valorConvertir select{
+    padding: 1rem;
+}
+.importe form input{
+    padding: .5rem;
+}
+.parrafoResultado{
+    background-color:black;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
